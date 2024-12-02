@@ -1,4 +1,4 @@
-# Wealth of Nations Dashboard
+# Wealth of Nations Data Analysis
 
 ## Project Overview
 This project analyzes and visualizes the **Wealth of Nations** dataset, focusing on the **top 20 highest-ranking countries** in three key areas:
